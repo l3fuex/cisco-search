@@ -61,6 +61,3 @@ interface GigabitEthernet1/10
 - The Ansible playbook assumes a naming convention like \<hostname\>_\<date\>.tar.gz for backup files.
 - Ensure you have unique interface descriptions across your environment for best results.
 - Adjust paths patterns (workdir, basedir) to fit your local setup.
-
-## License
-This software is provided under the [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
