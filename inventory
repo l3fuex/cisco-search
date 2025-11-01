@@ -1,0 +1,9 @@
+[cisco:children]
+ios
+nxos
+
+[ios]
+switch[01:02]
+
+[nxos]
+switch[03:04]
